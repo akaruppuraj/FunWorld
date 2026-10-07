@@ -1,0 +1,21 @@
+:root {
+  --fw-pink: #f72585;
+  --fw-pink-dark: #d81b72;
+
+  --fw-blue: #28a9e8;
+  --fw-blue-dark: #0879b8;
+
+  --fw-yellow: #ffd83d;
+  --fw-orange: #ff9f1c;
+
+  --fw-purple: #7048e8;
+  --fw-green: #54d86a;
+
+  --fw-cream: #fffaf0;
+  --fw-white: #ffffff;
+  --fw-dark: #17152b;
+
+  --fw-radius-lg: 32px;
+  --fw-radius-md: 22px;
+  --fw-radius-sm: 14px;
+}
